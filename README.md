@@ -1,16 +1,152 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Laçin Temel</h1>
 
-<!--
-**lacintemel/lacintemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Engineering Student | Backend Developer | Cybersecurity & AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building secure backend systems and AI-powered applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t1d2p0d3Q4Nm9uY2JjNmR5d3J3M2s1cG9yN2N6NHB0aTZ0dW5xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+# About Me
+
+- Interested in:
+  - Cybersecurity
+  - Backend Development
+  - AI Systems
+  - Recommendation Systems
+
+- Currently learning:
+  - CCNA / Networking
+  - Secure Backend Architectures
+  - AI Recommendation Systems
+  - Microservices
+
+- Working on:
+  - DVWA Security Labs
+  - Flask-based hospital systems
+  - Vehicle recommendation AI
+  - Data collection & ML pipelines
+
+---
+
+# Tech Stack
+
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,php,java,mysql,postgresql" />
+</p>
+
+## Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+</p>
+
+## Cybersecurity & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
+</p>
+
+## AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Sentence Transformers
+- Embeddings
+- Cosine Similarity
+
+---
+
+# Featured Projects
+
+## Smart Clinic Appointment System
+
+Layered Flask application for:
+
+- Appointment scheduling
+- Patient flow tracking
+- Doctor availability management
+- Role-based authentication
+
+Tech:
+`Flask` `PostgreSQL` `SQLAlchemy`
+
+---
+
+## Vehicle Recommendation AI
+
+AI-assisted vehicle recommendation and comparison system using:
+
+- Embeddings
+- Cosine similarity
+- Recommendation ranking
+- Real-world listing datasets
+
+---
+
+## DVWA Security Labs
+
+Practicing and documenting:
+
+- SQL Injection
+- XSS
+- CSRF
+- File Upload Vulnerabilities
+- Authentication Bypass
+- Command Injection
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lacintemel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacintemel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lacintemel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<p align="left">
+<a href="https://github.com/lacintemel" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://linkedin.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### “Learning by building.”
+
+</div>
