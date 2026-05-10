@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laçin Temel</h1>
 
 <h3 align="center">
-Computer Engineering Student | Backend Developer | Cybersecurity & AI Enthusiast
+Entrepreneur | Cybersecurity & AI Enthusiast
 </h3>
 
 <p align="center">
@@ -9,12 +9,6 @@ Building secure backend systems and AI-powered applications.
 </p>
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t1d2p0d3Q4Nm9uY2JjNmR5d3J3M2s1cG9yN2N6NHB0aTZ0dW5xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="500"/>
-
-</div>
 
 ---
 
